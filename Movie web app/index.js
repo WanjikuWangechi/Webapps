@@ -1,4 +1,4 @@
-const apiKey = "de86a867f1867cbc1bbd4be01f5742ca";
+const apiKey = "Generate your api_Key and place it here";
 const imgApi = "https://image.tmdb.org/t/p/w1280";
 const searchUrl =`https://api.themoviedb.org/3/search/movie?api_key=${apiKey}$query=`;
 const form = document.getElementById("search-form");
